@@ -10,7 +10,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Algorithm
 1. start the program
 2. develop the code in gusaasian elimination method
-3. to find the solution of given use the following method
+3. to find the solution of given use the following method.
 4. end the program 
 
 ## Program:
