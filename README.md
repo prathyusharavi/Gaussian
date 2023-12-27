@@ -44,9 +44,7 @@ for i in range(n):
 ```
 
 ## Output
-![image](https://github.com/prathyusharavi/Gaussian/assets/147474424/3dc7b290-89bc-4e2c-a1fc-4880ff757b05)
-![image](https://github.com/prathyusharavi/Gaussian/assets/147474424/55a08e8a-fa20-46f7-b378-3bf08a6b4e01)
-
+![image](https://github.com/prathyusharavi/Gaussian/assets/147474424/1a05e6b8-cd88-4f03-aede-651059f41486)
 
 
 
